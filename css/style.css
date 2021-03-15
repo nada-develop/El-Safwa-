@@ -1,0 +1,216 @@
+body{
+	padddin:0px;
+	margin:0px;
+}
+
+#header{
+	padding:10px 200px;
+}
+#header ul{
+	float:left;
+	list-style:none;
+	
+}
+#header ul li{
+	float:right;
+	margin-right:35px;
+	margin-top:8px;
+	
+}
+#header ul li a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+	padding-top:31px;
+	padding-bottom:31px;
+}
+
+#header ul li #active{
+	color:orange;
+	border-top:3px solid orange;
+}
+
+#header ul li a:hover{
+	color:orange;
+	border-top:3px solid orange;
+}
+
+#slide{
+	width:100%;
+	height:440px;
+}
+
+#about{
+	padding:30px 100px;
+}
+
+#about div{
+	float:right;
+	margin:0px 35px;
+	width:44%;
+}
+#about p{
+	font-weight:bold;
+	margin-top:5px;
+}
+
+#about ul{
+	list-style:;
+}
+
+.fix{
+	clear:both;
+}
+
+#services{
+	padding:30px 130px 80px 100px;
+}
+
+#services a img{
+	width:410px;
+}
+
+.servicea{
+	float:right;
+	margin-left:40px;
+	margin-bottom:30px;
+	text-align:center;
+	padding:0px;
+}
+
+#jobs{
+	padding:30px 200px 100px 200px;
+	background-color:#F7F7F7;
+	border-top:2px solid #E6E6E6;
+	text-align:center;
+	border-bottom:2px solid #E6E6E6;
+}
+
+#jobs a{
+	text-decoration:none;
+	color:black;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#jobs img{
+	width:387px;
+	margin:5px;
+}
+
+#clients{
+	padding:20px 150px 50px 150px;
+	border-bottom:15px solid #F5F5F5;
+	text-align:center;
+}
+
+#clients h3{
+	text-align:right;
+	float:right;
+}
+
+#clients hr{
+	margin-top:2%;
+}
+
+#clients img{
+	width:15%;
+	height:120px;
+	margin:20px 10px 20px 24px;
+	border:1px solid #D4D4D4;
+}
+	
+#footer{
+	padding:50px 150px;
+	background-color:#333333;
+	height:400px;
+	border-bottom:1px solid #8a8a8a;
+}
+
+#footer div{
+	float:right;
+	width:20%;
+	margin:20px;
+}
+
+#footer .fa img{
+	width:250px;
+	margin-top:25px;
+}
+
+#footer .fa p{
+	font-size:18px;
+	color:#999999;
+	font-weight:bold;
+}
+
+#footer h2{
+	color:#CCCCCC;
+}
+
+#footer .fb ul{
+	list-style:none;
+}
+
+#footer .fb ul li{
+	width:250px;
+	height:30px;
+	margin-right:-35px;
+	border-bottom:1px solid #999999;
+	margin-bottom:15px;
+}
+
+#footer .fb ul li a{
+	text-decoration:none;
+	color:#999999;
+	padding:15px 0px 15px 85px;
+	width:250px;
+	box-sizing:border-box;
+}	
+
+
+#footer .fb ul li:hover{
+	border-bottom:1px solid orange;
+}
+
+#footer .fb ul li a:hover{
+	color:orange;
+}
+
+#footer .ff .icon img{
+	width:30px;
+	float:right;
+}
+
+#footer .ff .icon p{
+	width:260px;
+	font-size:18px;
+	color:#999999;
+	font-weight:bold;
+	float:right;
+}
+
+#footer .ff .fe img{
+	width:300px;
+
+}
+
+#bfooter{
+	background-color:#151515;
+	padding:20px;
+}
+
+#bfooter p{
+	color:#999999;
+}
+
+#bfooter a{
+	color:#999999;
+	font-size:18px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#bfooter a:hover{
+	color:orange;
+}
